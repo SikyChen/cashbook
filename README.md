@@ -1,6 +1,6 @@
 # 小Q账本
-简单的记账应用<br >
-<a href:"https://sikychen.github.io/cashbook/index.html">网页版预览</a>
+简单的记账应用</br>
+<a href="https://sikychen.github.io/cashbook/index.html">网页版预览</a></br>
 
 ###应用简介
 
