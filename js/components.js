@@ -8,7 +8,7 @@ Vue.component('c-day-item', {
 		<li class="m-day_item">
 			<header>
 				<div class="u-date">
-					<span>1月{{idate}}日 星期{{dayitem[0].w}}</span>
+					<span>{{dayitem[0].m}}月{{idate}}日 星期{{dayitem[0].w}}</span>
 				</div>
 				<div class="u-pay_day">
 					<span>收支：{{payDay}}</span>
